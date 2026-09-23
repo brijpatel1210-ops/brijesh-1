@@ -1,0 +1,6 @@
+{
+  "name": "ધોરણ ૭ ફોટો હાજરી પત્રક - Class 7 Photo Attendance Register",
+  "description": "ધોરણ ૭ માટે ફોટો ક્લિક હાજરી પત્રક - ત્વરિત ક્લિકથી હાજરી અને એક્સેલ શીટ (Excel Sheet) માં ઓટો સેવ અને ડાઉનલોડ.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
